@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Yomogi', sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  font-size: 4.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+h2, h3 {
+  font-size: 2.5rem;
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 10px;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #f7a705 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #f7a705;
+  position: relative;
+  padding-top: 100px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.top-bricks {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-bricks {
+  position: absolute;
+  left: 300px;
+  bottom: 250px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  }
+
+  .laptop-img {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+  }
+  .pplane-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  .contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+
+.bottom-container {
+  background-color: #f7a705;
+  padding: 50px 0 20px;
+}
