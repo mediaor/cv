@@ -35,21 +35,10 @@ a {
 }
 
 .top-container {
-  background-color: #f7a705;
-  position: relative;
-  padding-top: 100px;
-  width: 200px;
-  height: 200px;
-  
-  overflow: hidden;
-}
-.top-container img {
-  position: absolute;
-  
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
+    background-color: #f7a705;
+    position: relative;
+    padding-top: 100px;
+  }
 .intro {
   width: 50%;
   margin: auto;
