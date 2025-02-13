@@ -39,7 +39,10 @@ a {
   position: relative;
   padding-top: 100px;
 }
-
+.top-container img {
+  width: 100%
+    height: auto;
+}
 .intro {
   width: 50%;
   margin: auto;
