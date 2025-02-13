@@ -42,13 +42,10 @@ a {
   height: 200px;
   
   overflow: hidden;
-  display: inline-block;
 }
 .top-container img {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate (-50%, -50%);
+  
   width: 100%;
   height: auto;
   object-fit: cover;
