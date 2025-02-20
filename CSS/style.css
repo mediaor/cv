@@ -36,9 +36,9 @@ a {
 
 .top-container {
     background-color: #f7a705;
+    text-align: center;
     position: relative;
     padding-top: 100px;
-    text-align: center;
   }
 .intro {
   width: 50%;
